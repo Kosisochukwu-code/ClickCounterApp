@@ -1,0 +1,3 @@
+cd click-counter-app
+npm install
+npm run dev
